@@ -165,8 +165,8 @@ Ringkasan endpoint:
 
 ## 10. Tautan Deliverables
 
-- **File APK:** `<isi link Google Drive/GitHub APK di sini>`
-- **Video Demo:** `<isi link YouTube/Google Drive video demo di sini>`
+- **File APK:** `https://drive.google.com/drive/u/0/folders/1WurND58fFcUqxmnI_DE6rBV9G-oLLyz9`
+- **Video Demo:** `https://drive.google.com/drive/u/0/folders/1WurND58fFcUqxmnI_DE6rBV9G-oLLyz9`
 
 ---
 
