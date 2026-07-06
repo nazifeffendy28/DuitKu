@@ -1,0 +1,20 @@
+erDiagram
+    USERS ||--o{ TRANSAKSI : "memiliki"
+
+    USERS {
+        int id PK
+        varchar nama
+        varchar email UK
+        varchar password
+        timestamp created_at
+    }
+
+    TRANSAKSI {
+        int id PK
+        int user_id FK
+        decimal nominal
+        varchar kategori
+        date tanggal
+        text catatan
+        timestamp created_at
+    }
